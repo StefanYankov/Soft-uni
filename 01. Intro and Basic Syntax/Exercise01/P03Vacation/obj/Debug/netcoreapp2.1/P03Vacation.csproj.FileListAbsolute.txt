@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\bin\Debug\netcoreapp2.1\P03Vacation.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\bin\Debug\netcoreapp2.1\P03Vacation.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\bin\Debug\netcoreapp2.1\P03Vacation.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\bin\Debug\netcoreapp2.1\P03Vacation.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\bin\Debug\netcoreapp2.1\P03Vacation.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\obj\Debug\netcoreapp2.1\P03Vacation.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\obj\Debug\netcoreapp2.1\P03Vacation.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\obj\Debug\netcoreapp2.1\P03Vacation.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\obj\Debug\netcoreapp2.1\P03Vacation.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\obj\Debug\netcoreapp2.1\P03Vacation.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\Exercise01\P03Vacation\obj\Debug\netcoreapp2.1\P03Vacation.pdb
