@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\bin\Debug\netcoreapp2.1\lab_01.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\bin\Debug\netcoreapp2.1\lab_01.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\bin\Debug\netcoreapp2.1\lab_01.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\bin\Debug\netcoreapp2.1\lab_01.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\bin\Debug\netcoreapp2.1\lab_01.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\obj\Debug\netcoreapp2.1\lab_01.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\obj\Debug\netcoreapp2.1\lab_01.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\obj\Debug\netcoreapp2.1\lab_01.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\obj\Debug\netcoreapp2.1\lab_01.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\obj\Debug\netcoreapp2.1\lab_01.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Technology Fundamentals\01. Intro and Basic Syntax\lab_01\lab_01\obj\Debug\netcoreapp2.1\lab_01.pdb
