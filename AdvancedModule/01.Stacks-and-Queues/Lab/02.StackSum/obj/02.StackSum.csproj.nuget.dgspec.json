@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\02.StackSum\\02.StackSum.csproj": {}
+    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\02.StackSum\\02.StackSum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\02.StackSum\\02.StackSum.csproj": {
+    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\02.StackSum\\02.StackSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\02.StackSum\\02.StackSum.csproj",
+        "projectUniqueName": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\02.StackSum\\02.StackSum.csproj",
         "projectName": "02.StackSum",
-        "projectPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\02.StackSum\\02.StackSum.csproj",
+        "projectPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\02.StackSum\\02.StackSum.csproj",
         "packagesPath": "C:\\Users\\SYank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\02.StackSum\\obj\\",
+        "outputPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\02.StackSum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

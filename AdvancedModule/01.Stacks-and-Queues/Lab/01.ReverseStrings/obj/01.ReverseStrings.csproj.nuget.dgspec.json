@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\01.ReverseStrings\\01.ReverseStrings.csproj": {}
+    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\01.ReverseStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\01.ReverseStrings\\01.ReverseStrings.csproj": {
+    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\01.ReverseStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\01.ReverseStrings\\01.ReverseStrings.csproj",
+        "projectUniqueName": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\01.ReverseStrings.csproj",
         "projectName": "01.ReverseStrings",
-        "projectPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\01.ReverseStrings\\01.ReverseStrings.csproj",
+        "projectPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\01.ReverseStrings.csproj",
         "packagesPath": "C:\\Users\\SYank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\01.ReverseStrings\\obj\\",
+        "outputPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Lab\\01.ReverseStrings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
