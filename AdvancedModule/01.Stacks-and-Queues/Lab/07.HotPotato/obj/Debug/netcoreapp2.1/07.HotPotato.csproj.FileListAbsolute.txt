@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\bin\Debug\netcoreapp2.1\07.HotPotato.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\bin\Debug\netcoreapp2.1\07.HotPotato.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\bin\Debug\netcoreapp2.1\07.HotPotato.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\bin\Debug\netcoreapp2.1\07.HotPotato.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\bin\Debug\netcoreapp2.1\07.HotPotato.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\obj\Debug\netcoreapp2.1\07.HotPotato.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\obj\Debug\netcoreapp2.1\07.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\obj\Debug\netcoreapp2.1\07.HotPotato.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\obj\Debug\netcoreapp2.1\07.HotPotato.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\obj\Debug\netcoreapp2.1\07.HotPotato.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Lab\07.HotPotato\obj\Debug\netcoreapp2.1\07.HotPotato.pdb
