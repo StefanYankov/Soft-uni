@@ -1,0 +1,10 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\bin\Debug\netcoreapp2.1\03.MaxAndMinElement.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\bin\Debug\netcoreapp2.1\03.MaxAndMinElement.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\bin\Debug\netcoreapp2.1\03.MaxAndMinElement.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\bin\Debug\netcoreapp2.1\03.MaxAndMinElement.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\bin\Debug\netcoreapp2.1\03.MaxAndMinElement.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\obj\Debug\netcoreapp2.1\03.MaxAndMinElement.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\obj\Debug\netcoreapp2.1\03.MaxAndMinElement.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\obj\Debug\netcoreapp2.1\03.MaxAndMinElement.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\obj\Debug\netcoreapp2.1\03.MaxAndMinElement.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\01.Exercises\03.MaxAndMinElement\obj\Debug\netcoreapp2.1\03.MaxAndMinElement.pdb
