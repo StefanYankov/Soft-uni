@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\01.Exercises\\04.FastFood\\04.FastFood.csproj": {}
+    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\04.FastFood\\04.FastFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\01.Exercises\\04.FastFood\\04.FastFood.csproj": {
+    "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\04.FastFood\\04.FastFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\01.Exercises\\04.FastFood\\04.FastFood.csproj",
+        "projectUniqueName": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\04.FastFood\\04.FastFood.csproj",
         "projectName": "04.FastFood",
-        "projectPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\01.Exercises\\04.FastFood\\04.FastFood.csproj",
+        "projectPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\04.FastFood\\04.FastFood.csproj",
         "packagesPath": "C:\\Users\\SYank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\01.Exercises\\04.FastFood\\obj\\",
+        "outputPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\04.FastFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
