@@ -1,0 +1,10 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\bin\Debug\netcoreapp2.1\06.AutoRepairAndService.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\bin\Debug\netcoreapp2.1\06.AutoRepairAndService.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\bin\Debug\netcoreapp2.1\06.AutoRepairAndService.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\bin\Debug\netcoreapp2.1\06.AutoRepairAndService.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\bin\Debug\netcoreapp2.1\06.AutoRepairAndService.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\obj\Debug\netcoreapp2.1\06.AutoRepairAndService.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\obj\Debug\netcoreapp2.1\06.AutoRepairAndService.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\obj\Debug\netcoreapp2.1\06.AutoRepairAndService.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\obj\Debug\netcoreapp2.1\06.AutoRepairAndService.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\01.Stacks-and-Queues\Exercise\06.AutoRepairAndService\obj\Debug\netcoreapp2.1\06.AutoRepairAndService.pdb
