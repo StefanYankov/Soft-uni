@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\10. Crossroads\\10. Crossroads.csproj",
-      "projectName": "10. Crossroads",
-      "projectPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\10. Crossroads\\10. Crossroads.csproj",
+      "projectUniqueName": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\10. Crossroads\\10.Crossroads.csproj",
+      "projectName": "10.Crossroads",
+      "projectPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\10. Crossroads\\10.Crossroads.csproj",
       "packagesPath": "C:\\Users\\SYank\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SYank\\iCloudDrive\\Software Engineering\\C#\\Soft-uni\\AdvancedModule\\01.Stacks-and-Queues\\Exercise\\10. Crossroads\\obj\\",
       "projectStyle": "PackageReference",

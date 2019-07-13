@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _10._Crossroads
+namespace _10.Crossroads
 {
     class Program
     {
