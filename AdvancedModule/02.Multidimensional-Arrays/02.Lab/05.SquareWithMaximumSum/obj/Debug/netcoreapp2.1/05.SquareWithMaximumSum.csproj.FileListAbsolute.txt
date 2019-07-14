@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.pdb

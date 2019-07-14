@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp2.1\06.Jagged-ArrayModification.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp2.1\06.Jagged-ArrayModification.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp2.1\06.Jagged-ArrayModification.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp2.1\06.Jagged-ArrayModification.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp2.1\06.Jagged-ArrayModification.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp2.1\06.Jagged-ArrayModification.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp2.1\06.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp2.1\06.Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp2.1\06.Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp2.1\06.Jagged-ArrayModification.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp2.1\06.Jagged-ArrayModification.pdb
