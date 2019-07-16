@@ -3,3 +3,5 @@
 *.pptx
 /OopModule/02.Inheritance/02. CSharp-OOP-Inheritance-Skeleton.zip
 /OopModule/02.Inheritance/*.zip
+/OopModule/03.Encapsulation/*.zip
+*.zip

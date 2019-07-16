@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\bin\Debug\netcoreapp2.1\08.Bombs.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\bin\Debug\netcoreapp2.1\08.Bombs.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\bin\Debug\netcoreapp2.1\08.Bombs.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\bin\Debug\netcoreapp2.1\08.Bombs.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\bin\Debug\netcoreapp2.1\08.Bombs.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\obj\Debug\netcoreapp2.1\08.Bombs.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\obj\Debug\netcoreapp2.1\08.Bombs.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\obj\Debug\netcoreapp2.1\08.Bombs.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\obj\Debug\netcoreapp2.1\08.Bombs.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\obj\Debug\netcoreapp2.1\08.Bombs.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\02.Multidimensional-Arrays\02.Exercise\08.Bombs\obj\Debug\netcoreapp2.1\08.Bombs.pdb
