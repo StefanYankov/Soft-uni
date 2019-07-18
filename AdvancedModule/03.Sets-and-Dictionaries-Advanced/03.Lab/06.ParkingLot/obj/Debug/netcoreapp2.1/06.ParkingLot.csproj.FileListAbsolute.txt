@@ -1,0 +1,10 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.pdb

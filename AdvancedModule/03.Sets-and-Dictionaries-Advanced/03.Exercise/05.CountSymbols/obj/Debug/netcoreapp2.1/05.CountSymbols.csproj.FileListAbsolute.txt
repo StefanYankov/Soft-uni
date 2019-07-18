@@ -1,0 +1,10 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\bin\Debug\netcoreapp2.1\05.CountSymbols.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\bin\Debug\netcoreapp2.1\05.CountSymbols.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\bin\Debug\netcoreapp2.1\05.CountSymbols.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\bin\Debug\netcoreapp2.1\05.CountSymbols.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\bin\Debug\netcoreapp2.1\05.CountSymbols.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\obj\Debug\netcoreapp2.1\05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\obj\Debug\netcoreapp2.1\05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\obj\Debug\netcoreapp2.1\05.CountSymbols.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\obj\Debug\netcoreapp2.1\05.CountSymbols.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\05.CountSymbols\obj\Debug\netcoreapp2.1\05.CountSymbols.pdb

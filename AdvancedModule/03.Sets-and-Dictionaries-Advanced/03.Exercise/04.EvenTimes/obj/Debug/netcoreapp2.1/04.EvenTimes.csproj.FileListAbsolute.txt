@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Exercise\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.pdb

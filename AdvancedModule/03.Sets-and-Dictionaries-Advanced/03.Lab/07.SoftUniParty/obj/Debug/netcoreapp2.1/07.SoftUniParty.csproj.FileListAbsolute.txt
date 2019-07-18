@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\bin\Debug\netcoreapp2.1\07.SoftUniParty.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\bin\Debug\netcoreapp2.1\07.SoftUniParty.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\bin\Debug\netcoreapp2.1\07.SoftUniParty.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\bin\Debug\netcoreapp2.1\07.SoftUniParty.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\bin\Debug\netcoreapp2.1\07.SoftUniParty.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\obj\Debug\netcoreapp2.1\07.SoftUniParty.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\obj\Debug\netcoreapp2.1\07.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\obj\Debug\netcoreapp2.1\07.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\obj\Debug\netcoreapp2.1\07.SoftUniParty.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\obj\Debug\netcoreapp2.1\07.SoftUniParty.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\07.SoftUniParty\obj\Debug\netcoreapp2.1\07.SoftUniParty.pdb

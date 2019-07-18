@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\bin\Debug\netcoreapp2.1\01.CountSameValuesArr.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\bin\Debug\netcoreapp2.1\01.CountSameValuesArr.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\bin\Debug\netcoreapp2.1\01.CountSameValuesArr.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\bin\Debug\netcoreapp2.1\01.CountSameValuesArr.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\bin\Debug\netcoreapp2.1\01.CountSameValuesArr.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\obj\Debug\netcoreapp2.1\01.CountSameValuesArr.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\obj\Debug\netcoreapp2.1\01.CountSameValuesArr.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\obj\Debug\netcoreapp2.1\01.CountSameValuesArr.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\obj\Debug\netcoreapp2.1\01.CountSameValuesArr.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\obj\Debug\netcoreapp2.1\01.CountSameValuesArr.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\03.Sets-and-Dictionaries-Advanced\03.Lab\01.CountSameValuesArr\obj\Debug\netcoreapp2.1\01.CountSameValuesArr.pdb
