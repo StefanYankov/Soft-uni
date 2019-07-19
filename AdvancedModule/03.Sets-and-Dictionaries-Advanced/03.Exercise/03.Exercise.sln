@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.UniqueUsernames", "01.UniqueUsernames\01.UniqueUsernames.csproj", "{95AA68F1-44B1-401A-A3DF-8A668968B9F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.UniqueUsernames", "01.UniqueUsernames\01.UniqueUsernames.csproj", "{95AA68F1-44B1-401A-A3DF-8A668968B9F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SetsOfElements", "02.SetsOfElements\02.SetsOfElements.csproj", "{3F71D880-27D2-4054-A1F6-69FC60452235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SetsOfElements", "02.SetsOfElements\02.SetsOfElements.csproj", "{3F71D880-27D2-4054-A1F6-69FC60452235}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PeriodicTable", "03.PeriodicTable\03.PeriodicTable.csproj", "{E6BDC6B8-7701-4FF5-80F2-700C3101528D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.PeriodicTable", "03.PeriodicTable\03.PeriodicTable.csproj", "{E6BDC6B8-7701-4FF5-80F2-700C3101528D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.EvenTimes", "04.EvenTimes\04.EvenTimes.csproj", "{9C08CADC-66C6-4577-9021-75F4408B9F1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.EvenTimes", "04.EvenTimes\04.EvenTimes.csproj", "{9C08CADC-66C6-4577-9021-75F4408B9F1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CountSymbols", "05.CountSymbols\05.CountSymbols.csproj", "{02A27B70-EBFB-490D-A202-95CFBB47420D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.CountSymbols", "05.CountSymbols\05.CountSymbols.csproj", "{02A27B70-EBFB-490D-A202-95CFBB47420D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Wardrobe", "06.Wardrobe\06.Wardrobe.csproj", "{14BB0398-437E-4154-A1FC-C54988A181D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Wardrobe", "06.Wardrobe\06.Wardrobe.csproj", "{14BB0398-437E-4154-A1FC-C54988A181D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TheV-Logger", "07.TheV-Logger\07.TheV-Logger.csproj", "{A69D899E-A324-43B0-B647-03A3FE1F634A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Ranking", "08.Ranking\08.Ranking.csproj", "{7AE50B17-50BA-42FC-95F6-12CF0BA7949E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{14BB0398-437E-4154-A1FC-C54988A181D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14BB0398-437E-4154-A1FC-C54988A181D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14BB0398-437E-4154-A1FC-C54988A181D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69D899E-A324-43B0-B647-03A3FE1F634A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69D899E-A324-43B0-B647-03A3FE1F634A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69D899E-A324-43B0-B647-03A3FE1F634A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69D899E-A324-43B0-B647-03A3FE1F634A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE50B17-50BA-42FC-95F6-12CF0BA7949E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE50B17-50BA-42FC-95F6-12CF0BA7949E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE50B17-50BA-42FC-95F6-12CF0BA7949E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE50B17-50BA-42FC-95F6-12CF0BA7949E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
