@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Exercise\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.pdb

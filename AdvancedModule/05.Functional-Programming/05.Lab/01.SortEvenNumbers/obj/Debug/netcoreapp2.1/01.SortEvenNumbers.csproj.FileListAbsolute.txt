@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\bin\Debug\netcoreapp2.1\01.SortEvenNumbers.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\bin\Debug\netcoreapp2.1\01.SortEvenNumbers.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\bin\Debug\netcoreapp2.1\01.SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\bin\Debug\netcoreapp2.1\01.SortEvenNumbers.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\bin\Debug\netcoreapp2.1\01.SortEvenNumbers.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\obj\Debug\netcoreapp2.1\01.SortEvenNumbers.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\obj\Debug\netcoreapp2.1\01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\obj\Debug\netcoreapp2.1\01.SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\obj\Debug\netcoreapp2.1\01.SortEvenNumbers.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\obj\Debug\netcoreapp2.1\01.SortEvenNumbers.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\05.Functional-Programming\05.Lab\01.SortEvenNumbers\obj\Debug\netcoreapp2.1\01.SortEvenNumbers.pdb
