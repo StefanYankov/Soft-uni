@@ -1,0 +1,10 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\bin\Debug\netcoreapp2.1\05.SpecialCars.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\bin\Debug\netcoreapp2.1\05.SpecialCars.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\bin\Debug\netcoreapp2.1\05.SpecialCars.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\bin\Debug\netcoreapp2.1\05.SpecialCars.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\bin\Debug\netcoreapp2.1\05.SpecialCars.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\obj\Debug\netcoreapp2.1\05.SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\obj\Debug\netcoreapp2.1\05.SpecialCars.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\obj\Debug\netcoreapp2.1\05.SpecialCars.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\obj\Debug\netcoreapp2.1\05.SpecialCars.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\06.Defining-Classes\06.Lab\05.SpecialCars\obj\Debug\netcoreapp2.1\05.SpecialCars.pdb
