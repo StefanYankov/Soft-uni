@@ -1,0 +1,10 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\bin\Debug\netcoreapp2.1\02.GenericArrayCreator.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\bin\Debug\netcoreapp2.1\02.GenericArrayCreator.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\bin\Debug\netcoreapp2.1\02.GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\bin\Debug\netcoreapp2.1\02.GenericArrayCreator.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\bin\Debug\netcoreapp2.1\02.GenericArrayCreator.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\obj\Debug\netcoreapp2.1\02.GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\obj\Debug\netcoreapp2.1\02.GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\obj\Debug\netcoreapp2.1\02.GenericArrayCreator.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\obj\Debug\netcoreapp2.1\02.GenericArrayCreator.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\02.GenericArrayCreator\obj\Debug\netcoreapp2.1\02.GenericArrayCreator.pdb

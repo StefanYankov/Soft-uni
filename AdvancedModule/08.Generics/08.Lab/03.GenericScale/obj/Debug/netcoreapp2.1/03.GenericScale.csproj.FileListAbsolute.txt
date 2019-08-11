@@ -1,0 +1,11 @@
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\bin\Debug\netcoreapp2.1\03.GenericScale.deps.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\bin\Debug\netcoreapp2.1\03.GenericScale.runtimeconfig.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\bin\Debug\netcoreapp2.1\03.GenericScale.runtimeconfig.dev.json
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\bin\Debug\netcoreapp2.1\03.GenericScale.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\bin\Debug\netcoreapp2.1\03.GenericScale.pdb
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\obj\Debug\netcoreapp2.1\03.GenericScale.csprojAssemblyReference.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\obj\Debug\netcoreapp2.1\03.GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\obj\Debug\netcoreapp2.1\03.GenericScale.AssemblyInfoInputs.cache
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\obj\Debug\netcoreapp2.1\03.GenericScale.AssemblyInfo.cs
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\obj\Debug\netcoreapp2.1\03.GenericScale.dll
+C:\Users\SYank\iCloudDrive\Software Engineering\C#\Soft-uni\AdvancedModule\08.Generics\08.Lab\03.GenericScale\obj\Debug\netcoreapp2.1\03.GenericScale.pdb

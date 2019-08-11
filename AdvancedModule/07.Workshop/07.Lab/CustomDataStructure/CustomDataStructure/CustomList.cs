@@ -8,7 +8,7 @@ namespace CustomDataStructure
     /// <summary>
     /// Integer list
     /// </summary>
-    public class CustomList
+    public class CustomList<T> where T: IComparable
     {
         /// <summary>
         /// Default size of the internal array
@@ -18,7 +18,7 @@ namespace CustomDataStructure
         /// <summary>
         /// Internal array
         /// </summary>
-        private int[] innerArr;
+        private T[] innerArr;
 
         /// <summary>
         /// Number of elements in the list
@@ -31,7 +31,7 @@ namespace CustomDataStructure
         /// </summary>
         public CustomList()
         {
-            innerArr = new int[defaultSize];
+            innerArr = new T[defaultSize];
         }
 
         /// <summary>
@@ -42,10 +42,10 @@ namespace CustomDataStructure
         /// of the list</param>
         public CustomList(int initialSize)
         {
-            innerArr = new int[initialSize];
+            innerArr = new T[initialSize];
         }
 
-        public int this[int index]
+        public T this[int index]
         {
             get
             {
@@ -60,7 +60,7 @@ namespace CustomDataStructure
         }
 
 
-        public void Add(int element)
+        public void Add(T element)
         {
             if (innerArr.Length == Count)
             {
@@ -71,7 +71,7 @@ namespace CustomDataStructure
             Count++;
         }
 
-        public void AddRange(int[] list)
+        public void AddRange(T[] list)
         {
             if (list.Length + Count >= innerArr.Length )
             {
@@ -107,7 +107,7 @@ namespace CustomDataStructure
             Shrink();
         }
 
-        public void InsertAt(int index, int element)
+        public void InsertAt(int index, T element)
         {
             CheckIndexRange(index);
             ShiftRight(index);
@@ -115,12 +115,12 @@ namespace CustomDataStructure
             Count++;
         }
 
-        public bool Contains(int element)
+        public bool Contains(T element)
         {
             bool result = false;
             for (int i = 0; i < Count; i++)
             {
-                if (innerArr[i] == element)
+                if (innerArr[i].Equals(element))
                 {
                     result = true;
                     break;
@@ -134,7 +134,7 @@ namespace CustomDataStructure
         {
             CheckIndexRange(firstIndex);
             CheckIndexRange(secondIndex);
-            int tempElement = innerArr[firstIndex];
+            T tempElement = innerArr[firstIndex];
             innerArr[firstIndex] = innerArr[secondIndex];
             innerArr[secondIndex] = tempElement;
         }
@@ -143,7 +143,7 @@ namespace CustomDataStructure
         {
             if (innerArr.Length / 4 > Count)
             {
-                int[] tempArr = new int[innerArr.Length / 2];
+                T[] tempArr = new T[innerArr.Length / 2];
 
                 for (int i = 0; i < Count; i++)
                 {
@@ -151,6 +151,14 @@ namespace CustomDataStructure
                 }
 
                 innerArr = tempArr;
+            }
+        }
+
+        public void ForEach(Action<T> action)
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                action(innerArr[i]);
             }
         }
 
@@ -164,7 +172,7 @@ namespace CustomDataStructure
 
         private void Grow(int newSize)
         {
-            int[] tempArr = new int[newSize];
+            T[] tempArr = new T[newSize];
 
             innerArr.CopyTo(tempArr, 0);
             innerArr = tempArr;
