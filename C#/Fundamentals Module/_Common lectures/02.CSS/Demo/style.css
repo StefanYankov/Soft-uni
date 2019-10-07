@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+li{
+    color: green
+}
+.boys{
+    color: blue
+}
+.girls{
+    color: pink
+}
+
+#special-girl{
+    color: red
+}
+
+p{
+    font-size: 20px;
+    color: rgba(193, 63, 175, 1);
+    font-style: italic;
+    font-weight: 900;
+    font-family: 'Indie Flower', cursive;
+    border: 1px solid coral;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+    display: inline-block;
+    text-align: center;
+    margin: 30px;
+}
+
+body{
+    text-align: center;
+}
