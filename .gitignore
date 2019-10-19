@@ -30,3 +30,8 @@ obj
 bin
 *.sln
 /C#/Databases/Databases Basics - MS SQL Server/00.Course-Introduction/*.pdf
+/C#/Databases/Databases Basics - MS SQL Server/00.Course-Introduction/*.pdf
+/C#/Databases/Databases Basics - MS SQL Server/00.Course-Introduction/Schedule.pdf
+Schedule.pdf
+/C#/Databases/Databases Basics - MS SQL Server/_Exams/Exam - 17 Feb 2019/*.sql
+/C#/Databases/Databases Basics - MS SQL Server/_Exams/Exam - 17 Feb 2019/01. DDL_Dataset.sql

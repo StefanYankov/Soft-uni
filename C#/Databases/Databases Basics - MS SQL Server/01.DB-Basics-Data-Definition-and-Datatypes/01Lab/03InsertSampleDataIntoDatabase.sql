@@ -1,0 +1,20 @@
+INSERT INTO Clients (FirstName, LastName) VALUES
+('Gosho', 'Ivanov'),
+('Pesho', 'Petrov'),
+('Ivan', 'Iliev'),
+('Merry', 'Ivanova'),
+('Serafim', 'Gerasimov')
+
+INSERT INTO AccountTypes (Name) VALUES
+('Checkings'),
+('Savings')
+
+INSERT INTO Accounts (ClientId, AccountTypeId, Balance) VALUES
+(1, 1, 175),
+(2, 1, 275.76),
+(3, 1, 138.01),
+(4, 1, 40.30),
+(4, 2, 375.50)
+
+
+SELECT * FROM Accounts
