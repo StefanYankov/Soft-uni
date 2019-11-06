@@ -3,10 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Restaurant</RootNamespace>
+    <AssemblyName>Restaurant</AssemblyName>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Foods\" />
-  </ItemGroup>
 
 </Project>
