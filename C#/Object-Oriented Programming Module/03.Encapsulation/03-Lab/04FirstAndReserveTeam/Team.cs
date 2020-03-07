@@ -1,28 +1,29 @@
 ﻿using System.Collections.Generic;
+using System.Text;
 
 namespace PersonsInfo
 {
     public class Team
     {
-        private List<Person> firstSquad;
-        private List<Person> reserveSquad;
+        private List<Person> firstTeam;
+        private List<Person> reserveTeam;
 
         public Team(string name)
         {
             this.Name = name;
-            this.firstSquad = new List<Person>();
-            this.reserveSquad = new List<Person>();
+            this.firstTeam = new List<Person>();
+            this.reserveTeam = new List<Person>();
         }
 
         public string Name { get; }
 
-        public IReadOnlyList<Person> FirstSquad => this.firstSquad.AsReadOnly();
+        public IReadOnlyCollection<Person> FirstTeam => this.firstTeam.AsReadOnly();
 
-        public IReadOnlyList<Person> ReserveSquad
+        public IReadOnlyCollection<Person> ReserveTeam
         {
             get
             {
-                return this.reserveSquad.AsReadOnly();
+                return this.reserveTeam.AsReadOnly();
             }
         }
 
@@ -30,12 +31,21 @@ namespace PersonsInfo
         {
             if (player.Age < 40)
             {
-                this.firstSquad.Add(player);
+                this.firstTeam.Add(player);
             }
             else
             {
-                this.reserveSquad.Add(player);
+                this.reserveTeam.Add(player);
             }
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"First team has {this.FirstTeam.Count} players.");
+            sb.AppendLine($"Reserve team has {this.ReserveTeam.Count} players.");
+
+            return sb.ToString().TrimEnd();
         }
     }
 }

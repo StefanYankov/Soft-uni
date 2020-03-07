@@ -27,7 +27,7 @@ namespace PersonsInfo
             {
                 team.AddPlayer(person);
             }
-
+            Console.WriteLine(team);
         }
     }
 }
