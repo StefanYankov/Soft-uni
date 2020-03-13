@@ -1,12 +1,13 @@
-﻿using BirthdayCelebrations.Core;
+﻿using FoodShortage.Core;
 
-namespace BirthdayCelebrations
+namespace FoodShortage
 {
     public class StartUp
     {
-       public static void Main()
+        static void Main(string[] args)
         {
             Engine engine = new Engine();
+
             engine.Run();
         }
     }
