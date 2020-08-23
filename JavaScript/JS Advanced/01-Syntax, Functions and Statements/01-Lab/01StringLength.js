@@ -1,17 +1,14 @@
-function solve(firstArgument, secondArgument, thirdArgument){
-    let totalLength;
-    let averageLength;
+function solve (firstInput, secondInput, thirdInput){
 
-    let firstString = firstArgument.length;
-    let secondString = secondArgument.length;
-    let thirdString = thirdArgument.length;
+    let length = firstInput.length + secondInput.length + thirdInput.length;
 
-    totalLength = firstString + secondString + thirdString;
-    averageLength = Math.floor(totalLength / 3);
-
-    console.log(totalLength);
-    console.log(averageLength);
-      
+    console.log(Math.floor(length));
+    console.log(Math.floor(length/3));
+    
 }
 
-solve('chocolate', 'ice cream', 'cake');
+let input1 = 'chocolate';
+let input2 =  'ice cream';
+let input3 =  'cake';
+
+solve(input1,input2,input3);
