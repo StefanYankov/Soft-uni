@@ -1,0 +1,43 @@
+
+*.docx
+*.pptx
+/OopModule/02.Inheritance/02. CSharp-OOP-Inheritance-Skeleton.zip
+/OopModule/02.Inheritance/*.zip
+/OopModule/03.Encapsulation/*.zip
+*.zip
+/regular-expressions-cheat-sheet-v2.pdf
+/Instruction-ActivateStudentsLicense-final.pdf
+/AdvancedModule/07.Workshop/07.Lab/CustomStructures
+/AdvancedModule/02.Multidimensional-Arrays/02.Exercise/06.BombTheBasement/bin
+/AdvancedModule/02.Multidimensional-Arrays/02.Exercise/06.BombTheBasement/obj
+obj
+bin
+/AdvancedModule/_Exams/Exam - 23 June 2019/03.SpaceStationEstablishment/bin
+/AdvancedModule/_Exams/Exam - 23 June 2019/03.SpaceStationEstablishment/obj
+bin
+obj
+obj
+bin
+obj
+bin
+bin
+obj
+obj
+bin
+bin
+obj
+obj
+bin
+*.sln
+/C#/Databases/Databases Basics - MS SQL Server/00.Course-Introduction/*.pdf
+/C#/Databases/Databases Basics - MS SQL Server/00.Course-Introduction/*.pdf
+/C#/Databases/Databases Basics - MS SQL Server/00.Course-Introduction/Schedule.pdf
+Schedule.pdf
+/C#/Databases/Databases Basics - MS SQL Server/_Exams/Exam - 17 Feb 2019/*.sql
+/C#/Databases/Databases Basics - MS SQL Server/_Exams/Exam - 17 Feb 2019/01. DDL_Dataset.sql
+*.ini
+*.csproj
+*.ide
+*.lock
+*.mp4
+*.gif
