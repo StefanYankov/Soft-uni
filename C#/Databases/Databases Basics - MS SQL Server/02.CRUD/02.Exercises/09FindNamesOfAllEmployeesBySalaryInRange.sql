@@ -1,2 +1,0 @@
-SELECT FirstName, LastName, JobTitle FROM Employees
-WHERE SALARY BETWEEN 20000 AND 30000
