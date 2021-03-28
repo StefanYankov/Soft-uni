@@ -3,6 +3,7 @@
 *.pptx
 *.pdf
 *.zip
+*.sln
 obj
 bin
 *.ini
