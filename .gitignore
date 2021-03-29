@@ -12,3 +12,5 @@ bin
 *.lock
 *.mp4
 *.gif
+*.suo
+*.v2
