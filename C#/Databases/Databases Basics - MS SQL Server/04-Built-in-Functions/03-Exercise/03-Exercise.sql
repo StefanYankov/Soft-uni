@@ -1,4 +1,4 @@
--- -- Part I – Queries for SoftUni Database
+-- -- Part I â€“ Queries for SoftUni Database
 
 USE Softuni
 
@@ -84,10 +84,10 @@ SELECT * FROM Employee_CTE
 WHERE (Salary BETWEEN 10000 AND 50000) AND [Rank] = 2
 ORDER BY Salary DESC
 
--- -- Part II – Queries for Geography Database
+-- -- Part II â€“ Queries for Geography Database
 USE [Geography]
 
--- 12 Countries Holding ‘A’ 3 or More Times
+-- 12 Countries Holding â€˜Aâ€™ 3 or More Times
 
 SELECT * FROM Countries
 
@@ -102,7 +102,7 @@ FROM Peaks as p, Rivers as r
 WHERE RIGHT(p.PeakName, 1) = LEFT(r.RiverName, 1)
 ORDER BY [Mix]
 
--- -- Part III – Queries for Diablo Database
+-- -- Part III â€“ Queries for Diablo Database
 
 USE Diablo
 
@@ -137,7 +137,7 @@ ORDER BY Username
 
 -- 17 Show All Games with Duration and Part of the Day
 
--- -- Part IV – Date Functions Queries
+-- -- Part IV â€“ Date Functions Queries
 
 Use Orders
 
