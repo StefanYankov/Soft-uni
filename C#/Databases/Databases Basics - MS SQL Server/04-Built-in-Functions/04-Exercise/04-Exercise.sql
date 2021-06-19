@@ -92,7 +92,7 @@ USE [Geography]
 SELECT * FROM Countries
 
 SELECT CountryName AS [Country name], IsoCode AS [ISO code] FROM Countries
-WHERE LEN(CountryName) - LEN(REPLACE(CountryName, 'A', '')) >= 3
+WHERE LEN(CountryName) - LEN(REPLACE(CountryName, 'A', '')) >= 3 -- WHERE CountryName LIKE '%a%a%a%'
 ORDER BY IsoCode
 
 --  13 Mix of Peak and River Names
@@ -137,14 +137,55 @@ ORDER BY Username
 
 -- 17 Show All Games with Duration and Part of the Day
 
+SELECT [Name] AS Game,
+	CASE
+		WHEN DATEPART(HOUR, [Start]) BETWEEN 0 AND 11 THEN 'Morning'
+		WHEN DATEPART(HOUR, [Start]) BETWEEN 12 AND 17 THEN 'Afternoon'
+		WHEN DATEPART(HOUR, [Start]) BETWEEN 18 AND 23 THEN 'Evening'
+	END
+	AS [Part of the Day],
+	CASE
+		WHEN Duration <= 3 THEN 'Extra Short'
+		WHEN Duration BETWEEN 4 AND 6 THEN 'Short'
+		WHEN Duration > 6 THEN 'Long'
+		ELSE 'Extra Long'
+	END
+	AS [Duration]
+		FROM Games
+		ORDER BY Game ASC, [Duration] ASC, [Part of the Day] ASC
+
 -- -- Part IV – Date Functions Queries
 
 Use Orders
 
--- 18 Orders Table
+-- Problem 18. Orders Table
 
 SELECT ProductName,
        OrderDate,
 	   DATEADD(DAY, 3, OrderDate) AS [Pay Due],
 	   DATEADD(MONTH, 1, OrderDate) AS [Deliver Due]
   FROM Orders
+  
+-- Problem 19. People Table
+
+CREATE TABLE People
+(
+	Id INT PRIMARY KEY IDENTITY,
+	[Name] NVARCHAR(200) NOT NULL,
+	Birthdate DATETIME NOT NULL
+);
+
+INSERT INTO People([Name], Birthdate) VALUES
+('Victor',	'2000-12-07 00:00:00.000'),
+('Steven',	'1992-09-10 00:00:00.000'),
+('Stephen',	'1910-09-19 00:00:00.000'),
+('John',	'2010-01-06 00:00:00.000')
+
+SELECT * FROM People
+
+SELECT [Name],
+	DATEDIFF(YEAR, Birthdate, GETDATE()) AS [Age in Years],
+	DATEDIFF(MONTH, Birthdate, GETDATE()) AS [Age in Months],
+	DATEDIFF(DAY, Birthdate, GETDATE()) AS [Age in Days],
+	DATEDIFF(MINUTE, Birthdate, GETDATE()) AS [Age in Minutes]
+FROM People
