@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace _08.TrafficJam
+namespace P08TrafficJam
 {
-    class Program
+    using System;
+    using System.Collections.Generic;
+    public class TrafficJamProgram
     {
-        static void Main()
+        public static void Main()
         {
             int carsToPass = int.Parse(Console.ReadLine());
 
