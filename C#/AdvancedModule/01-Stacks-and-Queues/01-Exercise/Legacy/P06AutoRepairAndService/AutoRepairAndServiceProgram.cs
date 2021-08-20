@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
 namespace _06.AutoRepairAndService
 {
-    class Program
+using System;
+using System.Collections.Generic;
+using System.Linq;
+    public class AutoRepairAndServiceProgram
     {
-        static void Main()
+        public static void Main()
         {
    
             var vehiclesForService = Console.ReadLine()
