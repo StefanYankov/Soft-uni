@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>P03MaxAndMinElement</RootNamespace>
+    <RootNamespace>P03MaximumAndMinimumElement</RootNamespace>
   </PropertyGroup>
 
 </Project>
