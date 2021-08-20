@@ -1,4 +1,4 @@
-namespace _06.AutoRepairAndService
+namespace P06AutoRepairAndService
 {
 using System;
 using System.Collections.Generic;
