@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>_12.CupsAndBottles</RootNamespace>
+    <RootNamespace>P12CupsAndBottles</RootNamespace>
   </PropertyGroup>
 
 </Project>
