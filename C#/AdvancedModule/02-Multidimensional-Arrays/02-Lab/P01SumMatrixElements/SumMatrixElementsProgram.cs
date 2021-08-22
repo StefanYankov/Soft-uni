@@ -1,11 +1,10 @@
-﻿using System;
-using System.Linq;
-
-namespace _01.SumMatrixElements
+namespace P01SumMatrixElements
 {
-    class SumMatrixElementsProgram
+    using System;
+    using System.Linq;
+    public class SumMatrixElementsProgram
     {
-        static void Main()
+        public static void Main()
         {
             int[] sizes = Console.ReadLine()
                 .Split(",", StringSplitOptions.RemoveEmptyEntries)
