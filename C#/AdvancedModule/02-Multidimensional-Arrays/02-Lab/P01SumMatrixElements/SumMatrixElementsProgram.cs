@@ -6,14 +6,13 @@ namespace P01SumMatrixElements
     {
         public static void Main()
         {
-            int[] sizes = Console.ReadLine()
+            int[] size = Console.ReadLine()
                 .Split(",", StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
 
-            int[,] matrix = new int[sizes[0], sizes[1]];
-            int sum = 0;
-
+            int totalSum = 0;
+            int[,] matrix = new int[size[0], size[1]];
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 int[] colElements = Console.ReadLine()
@@ -23,18 +22,15 @@ namespace P01SumMatrixElements
 
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
-                    matrix[row, col] = colElements[col];
-                }
-            }
+                    int tempElement = colElements[col];
 
-            foreach (var element in matrix)
-            {
-                sum += element;
+                    matrix[row, col] = tempElement;
+                    totalSum += tempElement;
+                }   
             }
-
             Console.WriteLine(matrix.GetLength(0));
             Console.WriteLine(matrix.GetLength(1));
-            Console.WriteLine(sum);
+            Console.WriteLine(totalSum);
         }
     }
 }
