@@ -1,12 +1,10 @@
-﻿using System;
-using System.Linq;
-
-
-namespace _05.SquareWithMaximumSum
+namespace P05SquareWithMaximumSum
 {
-    class SquareWithMaxSumProgram
+    using System;
+    using System.Linq;
+    public class SquareWithMaximumSumProgram
     {
-        static void Main()
+        public static void Main()
         {
             int[] matrixSize = Console.ReadLine()
                 .Split(',', StringSplitOptions.RemoveEmptyEntries)
@@ -37,7 +35,6 @@ namespace _05.SquareWithMaximumSum
                 for (int col = 0; col < matrix.GetLength(1) - 1; col++)
                 {
                     int currentSum = matrix[row, col] + matrix[row, col + 1] + matrix[row + 1, col] + matrix[row + 1, col + 1];
-
                     if (currentSum > maxSum)
                     {
                         maxSum = currentSum;
@@ -45,9 +42,8 @@ namespace _05.SquareWithMaximumSum
                         colIndex = col;
                     }
                 }
-
             }
-
+            /* option 2 for print
             for (int row = rowIndex; row < rowIndex + 2; row++)
             {
                 for (int col = colIndex; col < colIndex + 2; col++)
@@ -56,9 +52,9 @@ namespace _05.SquareWithMaximumSum
                 }
                 Console.WriteLine();
             }
-
+            */
+            Console.WriteLine($"{matrix[rowIndex, colIndex]} {matrix[rowIndex, colIndex + 1]}{Environment.NewLine}{matrix[rowIndex + 1, colIndex]} {matrix[rowIndex + 1, colIndex + 1]}");
             Console.WriteLine(maxSum);
-
         }
     }
 }
