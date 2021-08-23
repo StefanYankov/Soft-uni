@@ -1,10 +1,9 @@
-﻿using System;
-
 namespace _04.SymbolInMatrix
 {
-    class SymbolInMatrixProgram
+    using System;
+    public class SymbolInMatrixProgram
     {
-        static void Main()
+        public static void Main()
         {
             int squareSize = int.Parse(Console.ReadLine());
 
@@ -18,7 +17,6 @@ namespace _04.SymbolInMatrix
                 for (int c = 0; c < matrix.GetLength(1); c++)
                 {
                     matrix[r, c] = col[c];
-
                 }
             }
 
@@ -39,4 +37,3 @@ namespace _04.SymbolInMatrix
         }
     }
 }
- 
