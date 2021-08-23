@@ -1,4 +1,4 @@
-namespace _04.SymbolInMatrix
+namespace P04SymbolInMatrix
 {
     using System;
     public class SymbolInMatrixProgram
