@@ -1,14 +1,13 @@
-﻿using System;
-
-namespace _08.PascalTriangle
+namespace P07PascalTriangle
 {
-    class PascalTriangleProgram
+    using System;
+    using System.Text;
+    public class PascalTriangleProgram
     {
-        static void Main()
+        public static void Main()
         {
-            int rowCount = int.Parse(Console.ReadLine());
-
-            long[][] pascalTriangle = new long[rowCount][];
+            int height = int.Parse(Console.ReadLine());
+            long[][] pascalTriangle = new long[height][];
 
             for (long i = 0; i < pascalTriangle.Length; i++)
             {
@@ -24,15 +23,21 @@ namespace _08.PascalTriangle
                     for (long j = 1; j < pascalTriangle[i].Length - 1; j++)
                     {
                         pascalTriangle[i][j] = pascalTriangle[i - 1][j] + pascalTriangle[i - 1][j - 1];
-
                     }
                 }
             }
+            Console.WriteLine(PrintPascalTriangle(pascalTriangle));
+        }
 
-            foreach (var row in pascalTriangle)
+        private static string PrintPascalTriangle(long[][] pascalTriangle)
+        {
+            StringBuilder sb = new StringBuilder();
+            foreach (long[] value in pascalTriangle)
             {
-                Console.WriteLine(string.Join(' ', row));
+                sb.AppendLine(String.Join(" ", value));
             }
+
+            return sb.ToString();
         }
     }
 }
