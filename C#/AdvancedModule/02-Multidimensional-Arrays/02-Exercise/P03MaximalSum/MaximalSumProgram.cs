@@ -1,18 +1,17 @@
-﻿using System;
-using System.Linq;
-
-namespace _03.MaximalSum
+namespace P03MaximalSum
 {
-    class MaximalSumProgram
+    using System;
+    using System.Linq;
+    public class MaximalSumProgram
     {
-        static void Main()
+        public static void Main()
         {
-            int[] matrixSize = Console.ReadLine()
+            int[] dimensions = Console.ReadLine()
                 .Split(' ', StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
 
-            int[,] matrix = new int[matrixSize[0], matrixSize[1]];
+            int[,] matrix = new int[dimensions[0], dimensions[1]];
 
             int maxSum = int.MinValue;
 
@@ -36,8 +35,8 @@ namespace _03.MaximalSum
                 for (int col = 0; col < matrix.GetLength(1) - 2; col++)
                 {
                     int currentSum = matrix[row, col] + matrix[row, col + 1] + matrix[row, col + 2]
-                        + matrix[row + 1, col] + matrix[row + 1, col + 1] + matrix[row + 1, col + 2]
-                        + matrix[row + 2, col] + matrix[row + 2, col + 1] + matrix[row + 2, col + 2];
+                                     + matrix[row + 1, col] + matrix[row + 1, col + 1] + matrix[row + 1, col + 2]
+                                     + matrix[row + 2, col] + matrix[row + 2, col + 1] + matrix[row + 2, col + 2];
 
                     if (currentSum > maxSum)
                     {
@@ -48,6 +47,7 @@ namespace _03.MaximalSum
                 }
 
             }
+
             Console.WriteLine($"Sum = {maxSum}");
 
             for (int row = rowIndex; row < rowIndex + 3; row++)
