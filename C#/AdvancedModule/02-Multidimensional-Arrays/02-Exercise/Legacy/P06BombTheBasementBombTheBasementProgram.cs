@@ -1,14 +1,13 @@
-﻿using System;
-using System.Linq;
-
-namespace _06.BombTheBasement
+namespace P06BombTheBasement
 {
-    class BombTheBasementProgram
+    using System;
+    using System.Linq;
+    using System.Text;
+    public class BombTheBasementProgram
     {
-        static void Main()
+        public static void Main()
         {
-            int[] matrixSize = Console
-                .ReadLine()
+            int[] dimensions = Console.ReadLine()
                 .Split(' ', StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
@@ -17,18 +16,18 @@ namespace _06.BombTheBasement
                 .Select(int.Parse)
                 .ToArray();
 
-            var rows = matrixSize[0];
-            var cols = matrixSize[1];
-            var matrix = new int[rows, cols];
-            var bombRow = bomb[0];
-            var bombCol = bomb[1];
-            var bombRadius = bomb[2];
+            int rows = dimensions[0];
+            int cols = dimensions[1];
+            int[,] matrix = new int[rows, cols];
+            int bombRow = bomb[0];
+            int bombCol = bomb[1];
+            int bombRadius = bomb[2];
 
             for (int row = 0; row < rows; row++)
             {
                 for (int col = 0; col < cols; col++)
                 {
-                    var distance = Math.Sqrt(Math.Pow(row - bombRow, 2) + Math.Pow(col - bombCol, 2));
+                    double distance = Math.Sqrt(Math.Pow(row - bombRow, 2) + Math.Pow(col - bombCol, 2));
 
                     if (distance <= bombRadius)
                     {
@@ -37,7 +36,7 @@ namespace _06.BombTheBasement
                 }
             }
 
-            var tempMatrix = new int[cols][];
+            int[][] tempMatrix = new int[cols][];
 
             for (int row = 0; row < cols; row++)
             {
@@ -61,14 +60,26 @@ namespace _06.BombTheBasement
                 }
             }
 
-            for (int i = 0; i < rows; i++)
+            Console.WriteLine(PrintMatrix(matrix));
+        }
+
+        private static string PrintMatrix(int[,] matrix)
+        {
+            var sb = new StringBuilder();
+            string delimiter = string.Empty;
+            for (int i = 0; i < matrix.GetLength(0); i++)
             {
-                for (int j = 0; j < cols; j++)
+                for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    Console.Write(matrix[i, j]);
+                    sb.Append(matrix[i, j]).Append(delimiter);
                 }
-                Console.WriteLine();
+
+                if (i != (matrix.GetLength(0) - 1))
+                {
+                    sb.AppendLine();
+                }
             }
+            return sb.ToString();
         }
     }
 }
