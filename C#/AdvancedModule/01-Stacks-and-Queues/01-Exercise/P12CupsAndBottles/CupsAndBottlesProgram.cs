@@ -7,66 +7,84 @@ namespace P12CupsAndBottles
     {
         public static void Main()
         {
-            int[] cupCapacityInput = Console.ReadLine()
-                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+            int[] inputCupCapacity = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse).ToArray();
-            int[] bottlesOfWaterInput = Console.ReadLine()
-                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
-                .Select(int.Parse).ToArray();
+            Queue<int> cupsOfWater = new Queue<int>(inputCupCapacity);
 
-            Queue<int> cups = new Queue<int>(cupCapacityInput);
-            Stack<int> bottles = new Stack<int>(bottlesOfWaterInput);
-            int wastedLiters = 0;
+            int[] inputBottleCapacity = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse).ToArray();
+            Stack<int> bottlesOfWater = new Stack<int>(inputBottleCapacity);
+
+            bool bottlesHaveWater = false;
+            bool cupsAreFilled = false;
+            int wastedLittersOfWater = 0;
+
             int currentCup = 0;
 
             while (true)
             {
-                if (cups.Count == 0)
+                if (cupsOfWater.Count == 0 || bottlesOfWater.Count == 0)
                 {
-                    Console.WriteLine($"Bottles: {String.Join(" ", bottles)}");
-                    Console.WriteLine($"Wasted litters of water: {wastedLiters}");
+
+                    if (cupsOfWater.Count == 0 && bottlesOfWater.Count == 0)
+                    {
+                        bottlesHaveWater = true;
+                        cupsAreFilled = true;
+                    }
+                    else if (cupsOfWater.Count == 0)
+                    {
+                        cupsAreFilled = true;
+                    }
+                    else if (bottlesOfWater.Count == 0)
+                    {
+                        bottlesHaveWater = true;
+                    }
+
                     break;
                 }
 
-                if (bottles.Count == 0)
-                {
-                    if (currentCup <= 0)
-                    {
-                        Console.WriteLine($"Cups: {String.Join(" ",cups)}");
-                    }
-                    else
-                    {
-                        cups.Dequeue();
-                        Console.WriteLine($"Cups: {currentCup} {String.Join(" ", cups)}");
-                    }
-             
-                    Console.WriteLine($"Wasted litters of water: {wastedLiters}");
-                    break;
-                }
-
-                int currentBottle = bottles.Pop();
+                int currentBottle = bottlesOfWater.Pop();
 
                 if (currentCup <= 0)
                 {
-                    currentCup = cups.Peek();
+                    currentCup = cupsOfWater.Dequeue();
                 }
 
-                if ((currentCup - currentBottle) > 0)
+                while (true)
                 {
-                    currentCup -= currentBottle;
+                    if (currentCup - currentBottle > 0)
+                    {
+                        currentCup -= currentBottle;
+                    }
+                    else
+                    {
+                        wastedLittersOfWater += currentBottle - currentCup;
+                        currentCup = 0;
+                        break;
+                    }
+
+
+
+                    if (bottlesOfWater.Count != 0)
+                    {
+                        currentBottle = bottlesOfWater.Pop();
+
+                    }
+
                 }
-                else if (currentBottle == currentCup)
-                {
-                    currentCup -= currentBottle;
-                    cups.Dequeue();
-                }
-                else if ((currentCup - currentBottle) < 0)
-                {
-                    wastedLiters += currentBottle - currentCup;
-                    currentCup -= currentBottle;
-                    cups.Dequeue();
-                }
+
             }
+
+            if (cupsAreFilled)
+            {
+                Console.WriteLine($"Bottles: {String.Join(" ", bottlesOfWater)}");
+            }
+            else if (bottlesHaveWater)
+            {
+                Console.WriteLine($"Cups: {String.Join(" ", cupsOfWater)}");
+            }
+
+            Console.WriteLine($"Wasted litters of water: {wastedLittersOfWater}");
         }
     }
 }
