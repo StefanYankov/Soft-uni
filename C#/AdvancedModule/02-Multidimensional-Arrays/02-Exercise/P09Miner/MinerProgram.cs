@@ -1,43 +1,35 @@
-﻿using System;
-using System.Linq;
-
-namespace _09.Miner
+namespace P09Miner
 {
+    using System;
+    using System.Linq;
     public class MinerProgram
     {
-        static void Main()
+        public static void Main()
         {
-            int fieldSizeSide = int.Parse(Console.ReadLine());
+            int fieldSideSize = int.Parse(Console.ReadLine());
+            char[,] field = new char[fieldSideSize, fieldSideSize];
 
-            char[,] field = new char[fieldSizeSide, fieldSizeSide];
-
-            string[] commands = Console.ReadLine()
-                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                .ToArray();
-
-            int coalCount = 0;
+            string[] commands = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
             int currentRow = -1;
             int currentCol = -1;
+            int countOfCoal = 0;
+            bool noMoreCommands = false;
 
-            for (int row = 0; row < field.GetLength(0); row++)
+            for (int i = 0; i < field.GetLength(0); i++)
             {
-                char[] fieldRow = Console.ReadLine()
-                    .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                    .Select(char.Parse)
-                    .ToArray();
-
-                for (int col = 0; col < field.GetLength(1); col++)
+                char[] input = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
+                for (int j = 0; j < field.GetLength(1); j++)
                 {
-                    field[row, col] = fieldRow[col];
-
-                    if (field[row, col] == 'c')
+                    field[i, j] = input[j];
+                    if (input[j].Equals('s'))
                     {
-                        coalCount++;
+                        currentRow = i;
+                        currentCol = j;
                     }
-                    if (field[row, col] == 's')
+
+                    if (input[j].Equals('c'))
                     {
-                        currentRow = row;
-                        currentCol = col;
+                        countOfCoal++;
                     }
                 }
             }
@@ -45,7 +37,9 @@ namespace _09.Miner
 
             for (int i = 0; i < commands.Length; i++)
             {
-                switch (commands[i])
+                string command = commands[i];
+
+                switch (command)
                 {
                     case "up":
                         if (currentRow - 1 >= 0)
@@ -73,23 +67,31 @@ namespace _09.Miner
                         break;
                 }
 
-                if (field[currentRow, currentCol] == 'e')
+                if (field[currentRow, currentCol].Equals('e'))
                 {
                     Console.WriteLine($"Game over! ({currentRow}, {currentCol})");
-                    return;
+                    noMoreCommands = true;
+                    break;
                 }
-                if (field[currentRow, currentCol] == 'c')
+                
+                if (field[currentRow, currentCol].Equals('c'))
                 {
-                    coalCount--;
+                    countOfCoal--;
                     field[currentRow, currentCol] = '*';
                 }
-                if (coalCount == 0)
+                
+                if (countOfCoal == 0)
                 {
                     Console.WriteLine($"You collected all coals! ({currentRow}, {currentCol})");
-                    return;
+                    noMoreCommands = true;
+                    break;
                 }
             }
-            Console.WriteLine($"{coalCount} coals left. ({currentRow}, {currentCol})");
+
+            if (!noMoreCommands)
+            {
+                Console.WriteLine($"{countOfCoal} coals left. ({currentRow}, {currentCol})");
+            }
         }
     }
 }
