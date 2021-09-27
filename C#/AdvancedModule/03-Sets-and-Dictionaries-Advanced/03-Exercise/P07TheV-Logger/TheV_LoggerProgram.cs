@@ -1,4 +1,4 @@
-namespace P07TheV-Logger
+namespace P07TheV_Logger
 {
     using System;
     using System.Collections.Generic;
