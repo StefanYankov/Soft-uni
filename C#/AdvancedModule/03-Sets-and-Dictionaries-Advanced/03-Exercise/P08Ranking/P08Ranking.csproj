@@ -1,9 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>_08.Ranking</RootNamespace>
+    <TargetFramework>netcoreappP.1</TargetFramework>
+    <RootNamespace>P08Ranking</RootNamespace>
   </PropertyGroup>
-
 </Project>
