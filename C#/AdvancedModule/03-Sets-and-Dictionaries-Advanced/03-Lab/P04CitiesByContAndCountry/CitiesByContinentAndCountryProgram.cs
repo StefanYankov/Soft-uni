@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _04.CitiesByContAndCountry
+namespace P04CitiesByContAndCountry
 {
-    class CitiesByContinentAndCountryProgram
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    public class CitiesByContinentAndCountryProgram
     {
-        static void Main()
+        public static void Main()
         {
             var nestedDict = new Dictionary<string, Dictionary<string, List<string>>>();
 
