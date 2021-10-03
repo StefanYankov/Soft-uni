@@ -52,15 +52,15 @@ CREATE TABLE RentalOrders (
 	CustomerId INT FOREIGN KEY REFERENCES Customers(Id),
 	CarId INT FOREIGN KEY REFERENCES Cars(Id),
 	TankLevel SMALLINT NOT NULL,
-	KilometrageStart SMALLINT NOT NULL,
-	KilometrageEnd SMALLINT NOT NULL,
-	TotalKilometrage SMALLINT NOT NULL,
+	KilometrageStart INT NOT NULL,
+	KilometrageEnd INT NOT NULL,
+	TotalKilometrage INT NOT NULL,
 	CHECK(TotalKilometrage = KilometrageEnd - KilometrageStart),
 	StartDate DATE NOT NULL,
 	EndDate DATE NOT NULL,
-	TotalDays INT NOT NULL,
+	TotalDays SMALLINT NOT NULL,
 	CHECK(TotalDays = DATEDIFF(day, StartDate, EndDate) + 1),
-	RateApplied BIT,
+	RateApplied BIT NOT NULL,
 	TaxRate DECIMAL(4, 2) NOT NULL,
 	OrderStatus BIT NOT NULL,
 	Notes NVARCHAR(max)
@@ -75,10 +75,10 @@ INSERT INTO Categories(CategoryName, DailyRate, WeeklyRate, MonthlyRate, Weekend
 INSERT INTO Cars(PlateNumber, Manufacturer, Model, CarYear, CategoryId, Doors, Picture, Condition, Available) VALUES
 ('CA2398OD', 'Toyota', 'Celica', 2006, 1, 4, 1000, 'Excellent', 1),
 ('CO5169BA', 'Audi', 'R8', 2015, 3, 2, 2000, 'Very good', 0),
-('Œ¬1234¿–', 'Ford', 'Ford Mustang GT', 2015, 2, 2, 3000, 'Good', 1)
+('√é√Ç1234√Ä√ê', 'Ford', 'Ford Mustang GT', 2015, 2, 2, 3000, 'Good', 1)
 
 INSERT INTO Employees(FirstName, LastName, Title, Notes) VALUES
-('Stefan', 'Yankov', 'Managing Director', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend maximus nisl, et venenatis lorem vulputate sed.'),
+('Stefan', 'Yankov', 'Director', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend maximus nisl, et venenatis lorem vulputate sed.'),
 ('Serafim', 'Gerasimoff', 'Sales person', 'Fusce cursus nisl et rhoncus semper. Sed bibendum egestas lorem non accumsan purus faucibus nec.'),
 ('Dala', 'Vera', 'Accountant', 'Maecenas non porttitor sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.')
 
