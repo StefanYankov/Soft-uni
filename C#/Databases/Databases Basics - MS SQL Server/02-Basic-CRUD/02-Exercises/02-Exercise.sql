@@ -1,7 +1,7 @@
 -- 01 Examine the Databases
    -- Download and get familiar with the SoftUni, Diablo and Geography database schemas and tables.
 
--- -- Part I – Queries for SoftUni Database
+-- -- Part I â€“ Queries for SoftUni Database
 
 USE SoftUni
 
@@ -118,7 +118,16 @@ UPDATE Employees
 SET Salary  += Salary *0.12
 WHERE DepartmentID IN (1,2,4,11)
 
--- -- Part II – Queries for Geography Database
+/*
+UPDATE Employees
+SET Salary = Salary * 1.12
+WHERE DepartmentID IN (SELECT DepartmentID FROM Departments
+WHERE Name IN ('Engineering', 'Tool Design', 'Marketing', 'Information Services'))
+
+SELECT Salary FROM Employees
+*/
+
+-- -- Part II â€“ Queries for Geography Database
 
 USE [Geography]
 
@@ -142,7 +151,7 @@ END AS [Currency]
 FROM Countries
 ORDER BY CountryName
 
--- -- Part III – Queries for Diablo Database
+-- -- Part III â€“ Queries for Diablo Database
 
 USE Diablo
 
