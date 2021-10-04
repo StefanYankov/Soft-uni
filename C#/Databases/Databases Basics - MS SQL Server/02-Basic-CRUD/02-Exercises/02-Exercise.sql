@@ -137,6 +137,16 @@ SELECT PeakName FROM Peaks
 ORDER BY PeakName ASC
 
 -- 23 Biggest Countries by Population
+/*
+SELECT TOP(30)
+		[CountryName],
+		[Population] 
+		FROM Countries
+			WHERE [ContinentCode] IN (SELECT ContinentCode FROM Continents
+			WHERE [ContinentName] IN ('Europe'))
+		ORDER BY [Population] DESC
+*/
+
 
 SELECT TOP(30) CountryName, [Population] FROM Countries
 WHERE ContinentCode = 'EU'
