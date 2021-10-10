@@ -1,3 +1,5 @@
+USE SoftUni
+
 -- 01 - Departments Total Salaries
 
   SELECT DepartmentID, SUM(Salary) AS [TotalSalary]
