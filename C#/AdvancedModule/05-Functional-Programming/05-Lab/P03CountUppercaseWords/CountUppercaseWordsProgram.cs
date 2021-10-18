@@ -1,11 +1,10 @@
-﻿using System;
-using System.Linq;
-
-namespace _03.CountUppercaseWords
+namespace P03CountUppercaseWords
 {
-    class CountUppercaseWordsProgram
+    using System;
+    using System.Linq;
+    public class CountUppercaseWordsProgram
     {
-        static void Main()
+        public static void Main()
         {
             Func<string, bool> checker = w => w[0] == w.ToUpper()[0];
             var words = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries)
@@ -15,8 +14,6 @@ namespace _03.CountUppercaseWords
             {
                 Console.WriteLine(word);
             }
-
-
         }
     }
 }
