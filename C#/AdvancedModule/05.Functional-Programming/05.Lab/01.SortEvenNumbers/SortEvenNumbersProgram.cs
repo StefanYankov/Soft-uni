@@ -1,20 +1,17 @@
-﻿using System;
-using System.Linq;
-
-namespace _01.SortEvenNumbers
+namespace P01SortEvenNumbers
 {
-    class SortEvenNumbersProgram
+    using System;
+    using System.Linq;
+    public class SortEvenNumbersProgram
     {
-        static void Main()
+        public static void Main()
         {
-            int[] numbers = Console.ReadLine()
-                .Split(",", StringSplitOptions.RemoveEmptyEntries)
+            var input = Console.ReadLine()
+                .Split(',', StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
-                .ToArray();
-
-            Console.WriteLine(String.Join(", ", numbers
-                .Where(x => x % 2 == 0)
-                .OrderBy(x => x)));
+                .OrderBy(x => x)
+                .Where(x => x % 2 == 0);
+            Console.WriteLine(string.Join(", ",input));
         }
     }
 }
