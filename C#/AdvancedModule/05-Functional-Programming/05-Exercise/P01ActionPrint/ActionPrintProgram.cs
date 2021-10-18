@@ -1,10 +1,9 @@
-﻿using System;
-
-namespace _01.ActionPrint
+namespace P01ActionPrint
 {
-    class ActionPrintProgram
+    using System;
+    public class ActionPrintProgram
     {
-        static void Main()
+        public static void Main()
         {
             Action<string[]> printNames = names => Console.WriteLine(string.Join(Environment.NewLine, names));
             string[] inputNames = Console.ReadLine().Split(' ');
