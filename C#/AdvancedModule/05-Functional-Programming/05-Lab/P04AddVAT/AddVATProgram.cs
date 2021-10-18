@@ -1,11 +1,10 @@
-﻿using System;
-using System.Linq;
-
-namespace _04.AddVAT
+namespace P04AddVAT
 {
-    class AddVATProgram
+    using System;
+    using System.Linq;
+    public class AddVATProgram
     {
-        static void Main()
+        public static void Main()
         {
             double[] prices = Console.ReadLine()
                 .Split(',', StringSplitOptions.RemoveEmptyEntries)
