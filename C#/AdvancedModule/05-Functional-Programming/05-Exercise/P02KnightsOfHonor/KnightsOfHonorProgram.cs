@@ -6,11 +6,14 @@ namespace P02KnightsOfHonor
     {
         public static void Main()
         {
-            Action<string[]> printNames = names => Console.WriteLine("Sir " + string.Join(Environment.NewLine + "Sir ", names));
+            Action<string> printAddSir = text => text
+                .Split()
+                .ToList()
+                .ForEach(x => Console.WriteLine($"Sir {x}"));
 
-            string[] inputNames = Console.ReadLine().Split(' ').ToArray();
+            string text = Console.ReadLine();
 
-            printNames(inputNames);
+            printAddSir(text);
         }
     }
 }
