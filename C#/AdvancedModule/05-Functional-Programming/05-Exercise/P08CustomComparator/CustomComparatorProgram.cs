@@ -1,7 +1,7 @@
 namespace P08CustomComparator
 {
-	using System;
-	using System.Linq;
+    using System;
+    using System.Linq;
     public class CustomComparatorProgram
     {
         public static void Main()
