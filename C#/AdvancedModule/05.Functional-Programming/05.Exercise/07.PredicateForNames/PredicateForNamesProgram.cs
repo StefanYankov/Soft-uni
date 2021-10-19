@@ -1,11 +1,10 @@
-﻿using System;
-using System.Linq;
-
-namespace _07.PredicateForNames
+namespace P07PredicateForNames
 {
-    class PredicateForNamesProgram
+	using System;
+	using System.Linq;
+    public class PredicateForNamesProgram
     {
-        static void Main()
+        public static void Main()
         {
             int length = int.Parse(Console.ReadLine());
             var names = Console.ReadLine()
