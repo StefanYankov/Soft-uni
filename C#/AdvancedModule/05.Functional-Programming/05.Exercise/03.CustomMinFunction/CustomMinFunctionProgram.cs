@@ -1,15 +1,14 @@
-﻿using System;
-using System.Linq;
-
-namespace _03.CustomMinFunction
+namespace P03CustomMinFunction
 {
-    class CustomMinFunctionProgram
+    using System;
+    using System.Linq;
+    public class CustomMinFunctionProgram
     {
-        static void Main()
+        public static void Main()
         {
             Action<int> printNumber = x => Console.WriteLine(x);
 
-            Func<int[], int> minFunction = numbers =>
+            Func<IEnumerable<int>, int> minFunction = numbers =>
             {
                 int minValue = int.MaxValue;
 
@@ -23,10 +22,9 @@ namespace _03.CustomMinFunction
                 return minValue;
             };
 
-            int[] inputNumber = Console.ReadLine()
+            var inputNumber = Console.ReadLine()
                 .Split()
-                .Select(int.Parse)
-                .ToArray();
+                .Select(int.Parse);
 
             int minNumber = minFunction(inputNumber);
             printNumber(minNumber);
