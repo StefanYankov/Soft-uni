@@ -1,11 +1,10 @@
-﻿using System;
-using System.Linq;
-
-namespace _08.CustomComparator
+namespace P08CustomComparator
 {
-    class CustomComparatorProgram
+	using System;
+	using System.Linq;
+    public class CustomComparatorProgram
     {
-        static void Main()
+        public static void Main()
         {
             int[] numbers = Console.ReadLine()
                 .Split()
