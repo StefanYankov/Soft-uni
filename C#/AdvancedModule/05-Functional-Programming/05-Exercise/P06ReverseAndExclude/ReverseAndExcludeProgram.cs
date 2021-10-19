@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _06.ReverseAndExclude
+namespace P06ReverseAndExclude
 {
-    class ReverseAndExcludeProgram
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    public class ReverseAndExcludeProgram
     {
-        static void Main()
+        public static void Main()
         {
             var numbers = Console.ReadLine()
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries)
