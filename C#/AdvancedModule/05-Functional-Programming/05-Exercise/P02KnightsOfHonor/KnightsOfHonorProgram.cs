@@ -1,11 +1,10 @@
-﻿using System;
-using System.Linq;
-
-namespace _02.KnightsOfHonor
+namespace P02KnightsOfHonor
 {
-    class KnightsOfHonorProgram
+    using System;
+    using System.Linq;
+    public class KnightsOfHonorProgram
     {
-        static void Main()
+        public static void Main()
         {
             Action<string[]> printNames = names => Console.WriteLine("Sir " + string.Join(Environment.NewLine + "Sir ", names));
 
