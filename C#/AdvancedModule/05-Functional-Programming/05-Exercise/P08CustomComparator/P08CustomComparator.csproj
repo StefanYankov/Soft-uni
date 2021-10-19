@@ -1,9 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>_08.CustomComparator</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>P08CustomComparator</RootNamespace>
   </PropertyGroup>
-
 </Project>
