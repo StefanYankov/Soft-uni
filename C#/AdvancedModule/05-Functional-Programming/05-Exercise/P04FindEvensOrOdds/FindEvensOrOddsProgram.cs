@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _04.FindEvensOrOdds
+namespace P04FindEvensOrOdds
 {
-    class FindEvensOrOddsProgram
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    public class FindEvensOrOddsProgram
     {
-        static void Main()
+        public static void Main()
         {
             int[] bounds = Console.ReadLine()
                 .Split(' ', StringSplitOptions.RemoveEmptyEntries)
