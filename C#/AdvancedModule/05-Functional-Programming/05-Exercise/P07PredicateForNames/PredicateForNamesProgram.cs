@@ -1,7 +1,7 @@
 namespace P07PredicateForNames
 {
-	using System;
-	using System.Linq;
+    using System;
+    using System.Linq;
     public class PredicateForNamesProgram
     {
         public static void Main()
