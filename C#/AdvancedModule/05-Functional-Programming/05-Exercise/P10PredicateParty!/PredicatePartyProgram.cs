@@ -1,4 +1,4 @@
-namespace _10.PredicateParty_
+namespace P10.PredicateParty_
 {
     using System;
     using System.Linq;
