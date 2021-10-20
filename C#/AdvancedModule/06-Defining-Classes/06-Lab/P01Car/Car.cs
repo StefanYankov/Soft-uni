@@ -1,7 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace CarManufacturer
 {
     public class Car
@@ -10,13 +6,8 @@ namespace CarManufacturer
         private string model;
         private int year;
 
-        public string Make { get; set; }
-        public string Model { get; set; }
-        public int Year { get; set; }
-
         public Car()
         {
-
         }
 
         public Car(string model, string make, int year)
@@ -25,6 +16,9 @@ namespace CarManufacturer
             Make = make;
             Year = year;
         }
-
+        
+        public string Make { get; set; }
+        public string Model { get; set; }
+        public int Year { get; set; }
     }
 }
