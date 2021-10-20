@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _11.PartyReFilterModule
+namespace P11PartyReFilterModule
 {
-    class PartyReFilterModuleProgram
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    public class PartyReFilterModuleProgram
     {
-        static void Main()
+        public static void Main()
         {
             var guests = Console.ReadLine().Split();
 
