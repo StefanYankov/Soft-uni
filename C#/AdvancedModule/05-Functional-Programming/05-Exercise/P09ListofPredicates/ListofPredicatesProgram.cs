@@ -1,12 +1,11 @@
-﻿using System;
-using System.Linq;
-using System.Collections.Generic;
-
-namespace _09.ListofPredicates
+namespace P09ListofPredicates
 {
-    class ListofPredicatesProgram
+    using System;
+    using System.Linq;
+    using System.Collections.Generic;
+    public class ListofPredicatesProgram
     {
-        static void Main()
+        public static void Main()
         {
             int end = int.Parse(Console.ReadLine());
             int[] divisors = Console.ReadLine().
