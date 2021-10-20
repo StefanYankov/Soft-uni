@@ -1,10 +1,9 @@
-﻿using System;
-
 namespace CarManufacturer
 {
+    using System;
     public class StartUp
     {
-        static void Main()
+        public static void Main()
         {
             Car car = new Car("MK3", "VW", 1992);
 
