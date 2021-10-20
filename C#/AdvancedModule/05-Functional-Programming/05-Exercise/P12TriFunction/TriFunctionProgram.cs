@@ -1,11 +1,10 @@
-﻿using System;
-using System.Linq;
-
-namespace _12.TriFunction
+namespace P12TriFunction
 {
-    class TriFunctionProgram
+    using System;
+    using System.Linq;
+    public class TriFunctionProgram
     {
-        static void Main()
+        public static void Main()
         {
             int lenght = int.Parse(Console.ReadLine());
 
