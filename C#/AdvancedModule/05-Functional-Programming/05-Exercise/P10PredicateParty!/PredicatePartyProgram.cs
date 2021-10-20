@@ -1,13 +1,11 @@
-﻿using System;
-using System.Linq;
-
 namespace _10.PredicateParty_
 {
-    class PredicatePartyProgram
+    using System;
+    using System.Linq;
+    public class PredicatePartyProgram
     {
-        static void Main()
+        public static void Main()
         {
-
             var guests = Console.ReadLine().Split().ToList();
 
             Func<string, string, string, bool> filter = (guest, criteria, givenString) =>
