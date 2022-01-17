@@ -1,11 +1,4 @@
-function printArrayWithGivenDelimiter(inputArray) {
-    const tempArray = inputArray;
-    let delimiter = tempArray.pop();
+function solve(inputArray=[], delimiter) {
 
-    console.log(tempArray.join(delimiter));
+    console.log(inputArray.join(delimiter));
 }
-
-
-const input = ['One', 'Two', 'Three', 'Four', 'Five', '-'];
-
-printArrayWithGivenDelimiter(input);
