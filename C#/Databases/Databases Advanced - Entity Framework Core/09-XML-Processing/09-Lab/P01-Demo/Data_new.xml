@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library name="Developer's Library" book_count="2">
+  <book>
+    <title>Professional C# 4.0 and .NET 4</title>
+    <author>Christian Nagel</author>
+    <isbn>978-0-470-50225-9</isbn>
+    <price>1.2</price>
+  </book>
+  <book test="true">
+    <title>Teach Yourself XML in 10 Minutes</title>
+    <author>Andrew H. Watt</author>
+    <isbn>978-0-672-32471-0</isbn>
+    <price>1.2</price>
+  </book>
+  <book>
+    <title>SoftUni Book</title>
+    <author>SoftUni</author>
+    <isbn>999-9-999-999999-0</isbn>
+    <price>1.2</price>
+  </book>
+</library>
