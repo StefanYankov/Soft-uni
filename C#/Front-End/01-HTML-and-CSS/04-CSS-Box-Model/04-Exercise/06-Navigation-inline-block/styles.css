@@ -1,0 +1,23 @@
+html {
+  font-style: Helvetica, san-serif;
+}
+
+h1,
+nav {
+  display: inline-block;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 20px;
+}
+
+header li a {
+  color: #009d00;
+  display: inline-block;
+  text-decoration: none;
+}
+
+a {
+  color: inherit;
+}
