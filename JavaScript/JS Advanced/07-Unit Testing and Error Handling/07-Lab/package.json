@@ -1,0 +1,16 @@
+{
+  "name": "unit-testing-and-error-handling---lab",
+  "version": "1.0.0",
+  "description": "Lab 07 tests",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SYankov",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  }
+}
